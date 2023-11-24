@@ -1,9 +1,9 @@
 <?php
 
-$host = 'localhost';
+$host = 'viaduct.proxy.rlwy.net';
 $user = 'root';
-$pass = '';
-$db_name = 'blog';
+$pass = 'c3AHgGbBHd5A22FE556ahC56hfd2a2Dh';
+$db_name = 'railway';
 
 $conn = new MySQLi($host, $user, $pass, $db_name);
 
