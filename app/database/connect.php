@@ -1,8 +1,8 @@
 <?php
 
-$host = 'viaduct.proxy.rlwy.net';
+$host = 'roundhouse.proxy.rlwy.net';
 $user = 'root';
-$pass = 'c3AHgGbBHd5A22FE556ahC56hfd2a2Dh';
+$pass = 'HD2ACEgCd6DeDhfFFHbCEBBhdG651d4F';
 $db_name = 'railway';
 
 $conn = new MySQLi($host, $user, $pass, $db_name);
