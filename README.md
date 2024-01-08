@@ -1,5 +1,5 @@
 
-![Alice Eats Ecstasy Homepage](/blog/assets/images/Alice%20Eats%20Ecstasy%20Homepage.jpg)
+![Alice Eats Ecstasy Homepage](https://github.com/alicecodes1/blog/blob/main/assets/images/Alice%20Eats%20Ecstasy%20Home%20page.jpg)
 
 
 
@@ -29,11 +29,6 @@
 2. **Front-End Development Tool:**
     - Visual Studio Code
 
-3. **Books and Resources:**
-    - "Eloquent JavaScript" by Marijn Haverbeke
-    - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) for HTML, CSS, and JavaScript.
-    - [jQuery Documentation](https://api.jquery.com/) for jQuery.
-    - [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/) for Bootstrap.
 
 ### Backend Development:
 
