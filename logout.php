@@ -1,4 +1,5 @@
 <?php
+// Include the file containing the BASE_URL constant definition
 include("path.php");
 session_start();
 
