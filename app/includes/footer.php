@@ -1,4 +1,4 @@
-<!-- footer -->
+<!-- footer for app-->
 <div class="footer">
       <div class="footer-content">
 

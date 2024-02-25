@@ -15,7 +15,7 @@ $id = "";
 $title = "";
 $body = "";
 $topic_id = "";
-$published = "";
+$published = ""; 
 
 if (isset($_GET['id'])) {
     $post = selectOne($table, ['id' => $_GET['id']]);

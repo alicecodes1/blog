@@ -19,7 +19,7 @@ adminOnly();
     <!-- Custom Styling -->
     <link rel="stylesheet" href="../../assets/css/style.css">
 
-    <!-- Admin Styling -->
+    <!-- Admin Stylin -->
     <link rel="stylesheet" href="../../assets/css/admin.css">
 
     <title>Admin Section - Add Post</title>

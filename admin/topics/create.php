@@ -13,7 +13,7 @@ adminOnly();
     <!-- Font Awesome -->
     <script src="https://kit.fontawesome.com/be64b1f6f2.js" crossorigin="anonymous"></script>
 
-    <!-- google font -->
+    <!-- google fontt -->
     <link href="https://fonts.googleapis.com/css2?family=Candal&family=Lora&display=swap" rel="stylesheet">
     
     <!-- Custom Styling -->

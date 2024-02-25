@@ -31,7 +31,7 @@ adminOnly();
 
     <!-- admin header here -->
 
-    <!--Admin page wrapper -->
+    <!--Admin page wraper -->
     <div class="admin-wrapper">
 
         <?php include(ROOT_PATH . "/app/includes/adminSidebar.php"); ?>

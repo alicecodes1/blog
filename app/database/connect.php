@@ -1,9 +1,9 @@
 <?php
 
-$host = 'roundhouse.proxy.rlwy.net';
+$host = 'localhost';
 $user = 'root';
-$pass = 'HD2ACEgCd6DeDhfFFHbCEBBhdG651d4F';
-$db_name = 'railway';
+$pass = '';
+$db_name = 'blog';
 
 $conn = new MySQLi($host, $user, $pass, $db_name);
 

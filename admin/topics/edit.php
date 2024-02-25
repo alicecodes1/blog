@@ -16,7 +16,7 @@ adminOnly();
     <!-- google font -->
     <link href="https://fonts.googleapis.com/css2?family=Candal&family=Lora&display=swap" rel="stylesheet">
     
-    <!-- Custom Styling -->
+    <!-- Custom Stylin -->
     <link rel="stylesheet" href="../../assets/css/style.css">
     
     <!-- Admin Styling -->
