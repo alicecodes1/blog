@@ -56,4 +56,4 @@ AliceEatsEcstasy aims to provide a solution by offering a user-friendly platform
 Using a simple branching strategy with a primary branch (e.g., main or master) as the production-ready branch.
 
 **Merging Strategy:**
-Regular and incremental commits to feature branches, ensuring each commit is functional. Utilizing pull requests or merge requests to propose changes from feature branches to the primary branch.
+Regular and incremental commits to feature branches, ensuring each commit is functional. Utilizing pull requests or merge requests to propose changes from feature branches to the primary branch...
