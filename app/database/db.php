@@ -6,7 +6,7 @@ require('connect.php');
 
 
 
-function dd($value) // to be deleted
+function dd($value) // to deleted
 {
     echo "<pre>", print_r($value, true),  "</pre>";
     die();

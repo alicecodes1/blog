@@ -1,3 +1,4 @@
+<!-- Header section -->
 <header>
         <a href="<?php echo BASE_URL . '/index.php' ?>" class="logo">
             <h1 class="logo-text"><span>AliceEats</span>Ecstasy</h1>

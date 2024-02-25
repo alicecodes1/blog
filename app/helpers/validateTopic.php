@@ -1,5 +1,10 @@
 <?php
-
+/**
+ * Validate a topic before adding or updating it
+ *
+ * @param array $topic The topic data to validate
+ * @return array An array containing any validation errors
+ */
 function validateTopic($topic)
 {
 

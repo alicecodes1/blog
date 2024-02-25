@@ -1,6 +1,6 @@
 <?php
 
-
+// Function to restrict access to authenticated users only
 function usersOnly($redirect = '/index.php')
 {
     if (empty($_SESSION['id'])) {
@@ -11,6 +11,7 @@ function usersOnly($redirect = '/index.php')
     }
 }
 
+// Function to restrict access to administrators only
 function adminOnly($redirect = '/index.php')
 {
     if (empty($_SESSION['id']) || empty($_SESSION['admin'])) {

@@ -1,5 +1,10 @@
 <?php
-
+/**
+ * Validate post data
+ *
+ * @param array $post The post data to validate
+ * @return array An array containing validation errors
+ */
 function validatePost($post)
 {
 
